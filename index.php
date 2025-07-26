@@ -14,7 +14,7 @@
         <h1>Lista de Atividades</h1>
         
         <div id="atividades">
-            <!-- Espaço para listagem das atividades -->
+            
         </div>
         
         <button type="button" onclick="window.location.href='cadastra_atv.php'">Cadastrar Atividade</button>
